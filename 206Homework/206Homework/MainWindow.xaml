@@ -1,0 +1,36 @@
+﻿<Window x:Class="_206Homework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_206Homework"
+        mc:Ignorable="d"
+        Title="Database Elements" Height="470" Width="600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="10">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+            <Button Content="Sort by Name" Height="60" FontSize="16" FontWeight="Bold" Click="Button_Click"/>
+            <Button Content="Sort by Price" Height="60" FontSize="16" FontWeight="Bold" Click="Button_Click_1"/>
+            <TextBox x:Name="ElementsTextBox" Width="198" Height="54" FontSize="18" Margin="0,10,0,0"/>
+            <Button Content="Show Limited Amount" Height="32" Name="LimitCountBtn" Click="LimitCountBtn_Click"/>
+            <TextBox Text="Product Name" x:Name="NameTxtBox" Width="198" Height="50" FontSize="18" Margin="0,10,0,0"/>
+            <TextBox Text="Product Price"  x:Name="PriceTxtBox" Width="198" Height="50" FontSize="18" Margin="0,10,0,0"/>
+            <Button x:Name="AddNewProductBtn" Content="Add Product" Height="60" FontSize="16" FontWeight="Bold" Margin="0,10,0,0" Click="AddNewProductBtn_Click"/>
+        </StackPanel>
+
+        <DataGrid x:Name="ElementsDataGrid" Grid.Column="1" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="*" FontSize="14" FontWeight="Bold" />
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*" FontSize="14" FontWeight="Bold" />
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*" FontSize="14" FontWeight="Bold" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+
+</Window>
