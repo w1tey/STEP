@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\bin\Debug\net6.0\Listener.exe
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\bin\Debug\net6.0\Listener.deps.json
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\bin\Debug\net6.0\Listener.runtimeconfig.json
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\bin\Debug\net6.0\Listener.dll
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\bin\Debug\net6.0\Listener.pdb
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.AssemblyInfo.cs
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.dll
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\refint\Listener.dll
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.pdb
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\Listener.genruntimeconfig.cache
+C:\Users\Emil\source\repos\TCPListenerClient\Listener\obj\Debug\net6.0\ref\Listener.dll
