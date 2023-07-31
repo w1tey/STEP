@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\bin\Debug\net7.0\GroupChatServerUDP.exe
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\bin\Debug\net7.0\GroupChatServerUDP.deps.json
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\bin\Debug\net7.0\GroupChatServerUDP.runtimeconfig.json
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\bin\Debug\net7.0\GroupChatServerUDP.dll
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\bin\Debug\net7.0\GroupChatServerUDP.pdb
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.AssemblyInfo.cs
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.dll
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\refint\GroupChatServerUDP.dll
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.pdb
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\GroupChatServerUDP.genruntimeconfig.cache
+C:\Users\Emil\source\repos\UDPGroupChatWPF\GroupChatServerUDP\obj\Debug\net7.0\ref\GroupChatServerUDP.dll
